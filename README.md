@@ -10,4 +10,4 @@ Proyek ini merupakan simulasi Internet of Things (IoT) menggunakan ESP32 dan sen
 - `wokwi-project.txt` — link ke simulasi Wokwi
 
 📍 Penjelasan lengkap dan presentasi dapat dilihat di LinkedIn saya:  
-👉 [[linkedin.com/in/mutiarautami](https://www.linkedin.com/in/mutiarautami/)] *(ganti dengan link kamu yaa)*
+👉 [[linkedin.com/in/mutiarautami](https://www.linkedin.com/in/mutiarautami/)
