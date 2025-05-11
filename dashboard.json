@@ -1,0 +1,65 @@
+[
+    {
+        "id": "87cad3965d6d3ad4",
+        "type": "ui_chart",
+        "z": "d2ab331b26226087",
+        "name": "Monitor",
+        "group": "5590d8862663b10e",
+        "order": 5,
+        "width": 12,
+        "height": 4,
+        "label": "Monitoring DHT22",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "-40",
+        "ymax": "100",
+        "removeOlder": "30",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#800009",
+            "#ca3838",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 480,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5590d8862663b10e",
+        "type": "ui_group",
+        "name": "DHT22",
+        "tab": "1c1dc3094d4b5d0d",
+        "order": 1,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1c1dc3094d4b5d0d",
+        "type": "ui_tab",
+        "name": "Mutiara Utami - Praktikum IoT",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
